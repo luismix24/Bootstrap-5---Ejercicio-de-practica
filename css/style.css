@@ -1,0 +1,9 @@
+@media (max-width: 576px){
+    .footer-title, p, ul{
+        text-align: center;
+    }
+}
+
+h1, .carousel, ul, footer{
+    margin: 30px 0px 30px 0px;
+}
